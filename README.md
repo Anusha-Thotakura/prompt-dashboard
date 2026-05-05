@@ -10,18 +10,10 @@ better and save results to database.
 
 ## 📸 Screenshots
 
-### Dashboard
-![Dashboard](screenshots/1_dashboard.png)
-
-### Side by Side Comparison
-![Comparison](screenshots/2_comparison.png)
-
-### Annotation
-![Annotation](screenshots/3_annotation.png)
-
-### History
-![History](screenshots/4_history.png)
-
+![Dashboard](screenshots/dashboard.png)
+![Comparison](screenshots/comparison.png)
+![Annotation](screenshots/annotation.png)
+![History](screenshots/history.png)
 ---
 
 ## ✨ Features
